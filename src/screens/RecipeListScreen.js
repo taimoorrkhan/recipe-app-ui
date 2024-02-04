@@ -9,7 +9,7 @@ const RecipeListScreen = () => {
 	return (
 		<SafeAreaView style={{ flex: 1, marginHorizontal: 16,marginTop:18 }}>
 			{/* render header */}
-			<Header headerText={"Hi, John "} headerIcon={"bell-o"} />
+			<Header headerText={"Hi, Taimoor "} headerIcon={"bell-o"} />
 
 			{/* Search Filter */}
 			<SearchFilter icon="search" placeholder={"enter your fav recipe"} />
